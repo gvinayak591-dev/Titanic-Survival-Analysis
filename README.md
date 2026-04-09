@@ -56,6 +56,9 @@ Factors like passenger class, age, and gender significantly affected survival ch
 - Improve visualizations  
 
 ---
+## Sample Visualization
+
+![Survival Graph](graph.png)
 
 ## Author
 **Vinayak Gautam**  
